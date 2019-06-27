@@ -1,8 +1,3 @@
-[![Build Status](https://travis-ci.org/awslabs/serverless-application-model.svg?branch=develop)](https://travis-ci.org/awslabs/serverless-application-model)
-[![PyPI version](https://badge.fury.io/py/aws-sam-translator.svg)](https://badge.fury.io/py/aws-sam-translator)
-[![Codecov Test Coverage](https://codecov.io/gh/awslabs/serverless-application-model/branch/master/graphs/badge.svg?style=flat)](https://codecov.io/gh/awslabs/serverless-application-model)
-
-![Logo](aws_sam_introduction.png)
 
 # AWS Serverless Application Model (AWS SAM)
 You can use SAM to define serverless applications in simple and clean syntax.
@@ -18,4 +13,3 @@ You can build serverless applications faster and further simplify your developme
 
 [Read the Development Guide](DEVELOPMENT_GUIDE.rst) for in-depth information on how to start making changes.
 
-[Join the SAM developers channel (#samdev) on Slack](https://join.slack.com/t/awsdevelopers/shared_invite/enQtMzg3NTc5OTM2MzcxLTdjYTdhYWE3OTQyYTU4Njk1ZWY4Y2ZjYjBhMTUxNGYzNDg5MWQ1ZTc5MTRlOGY0OTI4NTdlZTMwNmI5YTgwOGM/) to collaborate with fellow community members and the AWS SAM team.
